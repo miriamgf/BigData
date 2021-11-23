@@ -1,7 +1,7 @@
-## BIG DATA - Practical Application
+# BIG DATA - Practical Application
 A model capable of predicting the arrival delay time of a commercial flight, given a set of parameters known at time of take-off.
 
-# CHECKLIST:
+## CHECKLIST:
 
 - [x] Load the input data, correctly separating all given variables.
 _Chosen: 1987. Must work with any subset of the data set._
