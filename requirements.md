@@ -54,3 +54,11 @@ hyper-parameter tuning, model evaluation, pipelines, etc.
 a single line of code, both for training and applying the model.
 - [ ] Write a report that is both clear and interesting, including insightful analysis and
 conclusions.
+
+## DELIVERABLES
+ZIP file containing:
+
+- [x] Authors.txt
+- [ ] Report.pdf
+- [ ] Application: a directory containing the application source code (SBT project or equivalent).
+
