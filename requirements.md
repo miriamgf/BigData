@@ -4,32 +4,32 @@ A model capable of predicting the arrival delay time of a commercial flight, giv
 ## CHECKLIST:
 
 - [x] Load the input data, correctly separating all given variables.
-_Chosen: 1987. Must work with any subset of the data set._
-_Once the data is stored, its location must be provided to the
+- Chosen: 1987. Must work with any subset of the data set.
+- Once the data is stored, its location must be provided to the
 Spark application as an input parameter. The application should expect to find the data as it is downloaded from the previous
-url._
+url.
 
 - [ ] Select, process and transform the input variables. Perform variable selection based on some basic analysis and logical criteria.
-_Properly handle variable types (numerical, categorical, etc.)_
-_Several variables may not contain useful information, are forbidden, contain information difficult to process, provide bettter information when combined with others...
-_ArrDelay must not be modified._
+- Properly handle variable types (numerical, categorical, etc.)
+- Several variables may not contain useful information, are forbidden, contain information difficult to process, provide bettter information when combined with others...
+- _ArrDelay_ must not be modified.
 
 - [ ] Basic analysis of each input variable
-_Once the pre-processing is done._
+- Once the pre-processing is done.
 
 - [ ] Machine Learning model - creation
-_The students can select any machine learning technique
+- The students can select any machine learning technique
 provided by the Spark API they wish to create this model. This selection must be properly
-justified in the report delivered._
+justified in the report delivered.
 
 - [ ] Machine Learning model - validation and accuracy 
-_As in the previous case, the selection of the evaluation technique and accuracy measure must
-be sufficiently justified in the report._
+- As in the previous case, the selection of the evaluation technique and accuracy measure must
+be sufficiently justified in the report.
 
-IMPORTANT: All data processing, model training and validation must be done with Spark. Use basic MLlib tools for handling the data, training and validating the model.
+**IMPORTANT:** All data processing, model training and validation must be done with Spark. Use basic MLlib tools for handling the data, training and validating the model.
 
 
-**GOING FURTHER**
+## GOING FURTHER
 A list of possible things that can be done to improve the quality of the
 work and obtain a very good or excellent grade:
 
