@@ -3,13 +3,13 @@ A model capable of predicting the arrival delay time of a commercial flight, giv
 
 **CHECKLIST:**
 
-- [x] Load the input data, correctly separating all given variables.
+[x] Load the input data, correctly separating all given variables.
 _Chosen: 1987. Must work with any subset of the data set._
 _Once the data is stored, its location must be provided to the
 Spark application as an input parameter. The application should expect to find the data as it is downloaded from the previous
 url._
 
-- [] Select, process and transform the input variables. Perform variable selection based on some basic analysis and logical criteria.
+[ ] Select, process and transform the input variables. Perform variable selection based on some basic analysis and logical criteria.
 _Properly handle variable types (numerical, categorical, etc.)_
 _Several variables may not contain useful information, are forbidden, contain information difficult to process, provide bettter information when combined with others...
 _ArrDelay must not be modified._
