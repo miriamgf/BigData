@@ -1,2 +1,5 @@
 ## Steps of the application process:
-- [ ] Removing forbidden variables
+- [x] Removing forbidden variables
+- [ ] Pre-processing
+- [ ] ML model
+- [ ] ML validation
