@@ -1,4 +1,3 @@
-BIG DATA PRACTICAL APPLICATION
 AUTHORS:
 
 - Itziar Alonso Marco
