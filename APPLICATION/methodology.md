@@ -1,2 +1,2 @@
 ## Steps of the application process:
-- [] Removing forbidden variables
+- [ ] Removing forbidden variables
